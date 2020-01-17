@@ -72,7 +72,7 @@
         <div class="form-group" style="text-align: center">
             <input class="btn btn-primary" type="submit" value="提交"/>
             <input class="btn btn-default" type="reset" value="重置"/>
-            <input class="btn btn-default" type="button" value="返回" id="back" onclick="window:history.go(-1);"/>
+            <input class="btn btn-default" type="button" value="返回" id="back" onclick="javascript:history.go(-1);"/>
         </div>
     </form>
 </div>
